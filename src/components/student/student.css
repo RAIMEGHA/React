@@ -1,0 +1,11 @@
+.student{
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  margin-top: 10px;
+}
+
+.plus{
+  font-weight: bold;
+  font-style: normal;
+  font-size: 50px;
+}
